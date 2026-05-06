@@ -1,0 +1,11 @@
+node_modules/
+.env
+auth/
+temp/
+*.webm
+*.mp3
+*.jpg
+*.webp
+*.session
+npm-debug.log
+yarn-error.log
