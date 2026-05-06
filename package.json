@@ -1,22 +1,26 @@
 {
   "name": "rukshan-md",
   "version": "1.0.0",
-  "description": "",
+  "description": "RUKSHAN KING BOT V6 - WhatsApp Multi Device Bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "dev": "node ."
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["whatsapp", "bot", "baileys", "md"],
+  "author": "Rukshan Maduwa",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0-rc.9",
-    "axios": "^1.16.0",
-    "jimp": "^1.6.1",
-    "moment-timezone": "^0.6.2",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.6.0",
+    "jimp": "^0.16.1",
+    "moment-timezone": "^0.5.43",
     "play-dl": "^1.9.7",
+    "qrcode": "^1.5.3",
     "qrcode-terminal": "^0.12.0",
-    "yt-search": "^2.13.1"
+    "yt-search": "^2.10.4",
+    "express": "^4.18.2",
+    "pino": "^8.17.2"
   }
 }
