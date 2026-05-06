@@ -1,12 +1,7 @@
 # 👑 RUKSHAN KING BOT V6 👑
 
 <p align="center">
-  <img src="https://i.imgur.com/3Z3Z3Z3.png" width="500px" alt="RUKSHAN KING BOT">
-</p>
-
-<p align="center">
-  <a href="https://github.com/Rukshan-maduwa/RUKSHAN-KING-BOT-V6/fork"><img src="https://img.shields.io/github/forks/Rukshan-maduwa/RUKSHAN-KING-BOT-V6?style=social" /></a>
-  <a href="https://github.com/Rukshan-maduwa/RUKSHAN-KING-BOT-V6/stargazers"><img src="https://img.shields.io/github/stars/Rukshan-maduwa/RUKSHAN-KING-BOT-V6?style=social" /></a>
+  <img src="https://i.ibb.co/2n69Qjv/whatsapp-bot.jpg" width="500px" alt="RUKSHAN KING BOT">
 </p>
 
 ## ✨ Features
